@@ -25,7 +25,7 @@ SECRET_KEY = 'nuewa#1p_hj=$86sf$@+ip0jnjkmd!&2^!lb=g3+xn)w%=y8pw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
